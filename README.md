@@ -19,7 +19,14 @@ TODO: Describe the installation process
 
 TODO: Write usage instructions
 
-![alt text](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png "aaa")
+![main_menu](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png "main_menu")
+
+![configuration](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/configuration.png "configuration")
+
+
+
+
+![log_tab](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png "log_tab")
 
 
 
