@@ -63,6 +63,12 @@ We can see the 3 most frequent classes: <i>corn</i>, <i>cotton</i>, and <i>pearl
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/training_txt_scale_margins.png" />
+<br />
+Plot of the cross-validation accuracy contour for <i>round1</i> of <i>experiment3</i>.
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_classification.png" />
 <br />
 Screenshot of the New Classification input dialog.
