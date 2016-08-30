@@ -15,9 +15,17 @@ TODO: Write a short project description
 
 TODO: Describe the installation process
 
-## Usage
+## Screenshots
 
 TODO: Write usage instructions
+
+![alt text](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png "aaa")
+
+
+
+
+
+
 
 ## Acknowledgements
 
