@@ -9,7 +9,7 @@ TODO: Write a short project description
 * MySQL (ver. 5.6.21 or newer): recommended XAMPP, https://www.apachefriends.org/index.html
 * Libsvm (ver. 3.17 or newer): https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 * Libopf (ver. 2.1 or newer): http://www.ic.unicamp.br/~afalcao/libopf/
-* Gnuplot: `$ sudo apt-get install gnuplot`
+* Gnuplot: run `$ sudo apt-get install gnuplot`
 
 ## Installation
 
@@ -22,7 +22,7 @@ TODO: Write usage instructions
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png" />
 <br />
-Main Menu of the \sircub~prototype.
+Main Menu of the SiRCub prototype.
 </p>
 
 <p align="center">
