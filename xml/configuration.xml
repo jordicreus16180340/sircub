@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sircub>
+	<configuration>
+		<database-connection>
+			<hostname>localhost</hostname>
+			<database>sircub2</database>
+			<user>sircub</user>
+			<password>1234</password>
+		</database-connection>
+		
+		<timesat-directory>/home/jordi/postdoc/programs/timesat/standalone_linux/timesat311/</timesat-directory>
+		
+		<libsvm-directory>/home/jordi/postdoc/libraries/libsvm/libsvm-3.17/</libsvm-directory>
+		
+		<gnuplot-executable>/usr/bin/gnuplot</gnuplot-executable>
+		
+		<libopf-directory>/home/jordi/postdoc/libraries/libopf/LibOPF/</libopf-directory>
+		
+		<experiments-directory>/home/jordi/postdoc/workspace/SiRCub3/output/experiments/</experiments-directory>
+		
+		<classifications-directory>/home/jordi/postdoc/workspace/SiRCub3/output/classifications/</classifications-directory>
+	</configuration>
+</sircub>

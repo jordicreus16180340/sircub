@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sircub>
+	<experiment>
+		<id>experiment2_opf</id>
+		
+		<descriptor-dataset id="1" />
+		
+		<annotation-dataset id="1" />
+		
+		<target-class>first_season</target-class>
+		<!-- values: crop | first_season | second_season | pair -->
+		
+		<nb-classes>2</nb-classes>
+		
+		<validation-technique>random_sampling</validation-technique>
+		<!-- values: random_sampling | k_fold -->
+		
+		<nb-rounds>10</nb-rounds>
+		
+		<balancing>balanced_training_testing</balancing>
+		<!-- values: unbalanced_training_testing | balanced_training_unbalanced_testing | balanced_training_testing -->
+		
+		<experiment-technique>opf</experiment-technique>
+		<!-- values: svm | opf -->
+		
+		<scaling />
+		
+		<kernel-type>radial_basis_function</kernel-type>
+		<!-- values: radial_basis_function | linear | polynomial -->
+		
+		<run-gnuplot>run_gnuplot</run-gnuplot>
+		<!-- values: do_not_run_gnuplot | run_gnuplot -->
+		
+		<beg-end>with_beg_end</beg-end>
+		<!-- values: without_beg_end | with_beg_end -->
+	</experiment>
+</sircub>

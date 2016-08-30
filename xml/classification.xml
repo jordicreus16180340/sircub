@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sircub>
+	<classification>
+		<id>classification2_opf</id>
+		
+		<descriptor-dataset id="1" />
+		
+		<labels-file>/home/jordi/postdoc/workspace/SiRCub3/input/dataset1/annotation_labels_en.csv</labels-file>
+		
+		<round-directory>/home/jordi/postdoc/workspace/SiRCub3/output/experiments/experiment2_opf/round1/</round-directory>
+		
+		<target-class>first_season</target-class>
+		<!-- values: crop | first_season | second_season | pair -->
+		
+		<experiment-technique>opf</experiment-technique>
+		<!-- values: svm | opf -->
+	</classification>
+</sircub>
