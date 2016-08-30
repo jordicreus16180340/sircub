@@ -30,7 +30,7 @@ It allows to create agricultural crop classifiers and to test them.
 
 4. Create SiRCub's tables in the previous database
 
-   Import [aaa](blob/master/db/sircub2_STRUCTURE.sql) into the database
+   Import [aaa](db/sircub2_STRUCTURE.sql) into the database
 
 5. ...
 
