@@ -2,7 +2,8 @@
 
 Sistema de Reconhecimento de Culturas brasileiro
 
-TODO: Write a short project description
+**SiRCub** stands for *Sistema de Reconhecimento de Culturas brasileiro* (Brazilian Agricultural Crop Recognition System).
+It allows to create agricultural crop classifiers and to test them.
 
 ## Prerequisites
 
