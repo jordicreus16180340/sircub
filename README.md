@@ -31,9 +31,9 @@ TODO: Write usage instructions
 
 ![log_tab](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png "log_tab")
 
-![]( "")
+![results_tab](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/results_tab.png "results_tab")
 
-![]( "")
+![new_classification](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_classification.png "new_classification")
 
 
 
