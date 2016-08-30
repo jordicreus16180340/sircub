@@ -1,7 +1,5 @@
 # SiRCub 1.3
 
-Sistema de Reconhecimento de Culturas brasileiro
-
 **SiRCub** stands for *Sistema de Reconhecimento de Culturas brasileiro* (Brazilian Agricultural Crop Recognition System).
 It allows to create agricultural crop classifiers and to test them.
 
@@ -21,7 +19,7 @@ TODO: Describe the installation process
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png" />
 <br />
-Main Menu of the SiRCub prototype.
+<i>Figure 1.</i> Main Menu of the SiRCub prototype.
 </p>
 
 ---
