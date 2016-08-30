@@ -14,7 +14,7 @@ It allows to create agricultural crop classifiers and to test them.
 
 1. If you haven't done it before:
 
-   Initialize Git
+   Initialize Git  
    ```bash
    $ git config --global user.name "YOUR NAME"
    $ git config --global user.email "YOUR EMAIL ADDRESS"
