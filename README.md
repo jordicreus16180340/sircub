@@ -11,6 +11,8 @@ TODO: Write a short project description
 * Libopf (ver. 2.1 or newer): ...
 * Gnuplot
 
+[a link](http://example.com){:target="_blank"}
+
 ## Installation
 
 TODO: Describe the installation process
