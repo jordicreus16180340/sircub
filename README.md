@@ -22,7 +22,7 @@ TODO: Write usage instructions
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png" />
 <br />
-AAA
+Main Menu of the \sircub~prototype.
 </p>
 
 <p align="center">
