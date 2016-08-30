@@ -65,16 +65,8 @@ We can see the 3 most frequent classes: <i>corn</i>, <i>cotton</i>, and <i>pearl
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_classification.png" />
 <br />
-AAA
+Screenshot of the New Classification input dialog.
 </p>
-
-
-
-
-
-
-
-
 
 ## Acknowledgements
 
