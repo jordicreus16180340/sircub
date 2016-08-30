@@ -7,9 +7,9 @@ TODO: Write a short project description
 ## Prerequisites
 
 * MySQL (ver. 5.6.21 or newer): recommended XAMPP, https://www.apachefriends.org/index.html
-* Libsvm (ver. 3.17 or newer): ...
-* Libopf (ver. 2.1 or newer): ...
-* Gnuplot
+* Libsvm (ver. 3.17 or newer): https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+* Libopf (ver. 2.1 or newer): http://www.ic.unicamp.br/~afalcao/libopf/
+* Gnuplot: `$ sudo apt-get install gnuplot`
 
 ## Installation
 
