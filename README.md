@@ -6,7 +6,7 @@ TODO: Write a short project description
 
 ## Prerequisites
 
-* MySQL (ver. 5.6.21 or newer): recommended XAMPP, https://www.apachefriends.org/index.html
+* MySQL (ver. 5.6.21 or newer): recommended XAMPP, <a href="https://www.apachefriends.org/index.html" target="_blank">https://www.apachefriends.org/index.html</a>
 * Libsvm (ver. 3.17 or newer): ...
 * Libopf (ver. 2.1 or newer): ...
 * Gnuplot
