@@ -12,7 +12,20 @@ It allows to create agricultural crop classifiers and to test them.
 
 ## Installation
 
-TODO: Describe the installation process
+If you haven't done it before:
+
+Initialize Git
+```bash
+$ git config --global user.name "YOUR NAME"
+$ git config --global user.email "YOUR EMAIL ADDRESS"
+```
+
+
+
+
+
+
+
 
 ## Screenshots
 
