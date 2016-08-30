@@ -55,7 +55,7 @@ Import Annotations input dialog.
 Screenshot of the New Experiment input dialog.
 </p>
 
---
+---
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png" />
