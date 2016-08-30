@@ -23,11 +23,17 @@ TODO: Write usage instructions
 
 ![configuration](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/configuration.png "configuration")
 
+![import_descriptors](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_descriptors.png "import_descriptors")
 
+![import_annotations](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_annotations.png "import_annotations")
 
+![new_experiment](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_experiment.png "new_experiment")
 
 ![log_tab](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png "log_tab")
 
+![]( "")
+
+![]( "")
 
 
 
