@@ -19,21 +19,56 @@ TODO: Describe the installation process
 
 TODO: Write usage instructions
 
-![main_menu](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png "main_menu")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/main_menu.png" />
+<br />
+AAA
+</p>
 
-![configuration](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/configuration.png "configuration")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/configuration.png" />
+<br />
+AAA
+</p>
 
-![import_descriptors](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_descriptors.png "import_descriptors")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_descriptors.png" />
+<br />
+AAA
+</p>
 
-![import_annotations](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_annotations.png "import_annotations")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_annotations.png" />
+<br />
+AAA
+</p>
 
-![new_experiment](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_experiment.png "new_experiment")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_experiment.png" />
+<br />
+AAA
+</p>
 
-![log_tab](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png "log_tab")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png" />
+<br />
+AAA
+</p>
 
-![results_tab](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/results_tab.png "results_tab")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/results_tab.png" />
+<br />
+AAA
+</p>
 
-![new_classification](https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_classification.png "new_classification")
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_classification.png" />
+<br />
+AAA
+</p>
+
+
+
 
 
 
