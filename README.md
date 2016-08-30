@@ -28,31 +28,31 @@ Main Menu of the SiRCub prototype.
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/configuration.png" />
 <br />
-AAA
+Configuration dialog of the prototype.
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_descriptors.png" />
 <br />
-AAA
+Import Descriptors input dialog.
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/import_annotations.png" />
 <br />
-AAA
+Import Annotations input dialog.
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/new_experiment.png" />
 <br />
-AAA
+Screenshot of the New Experiment input dialog.
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/screenshots/log_tab.png" />
 <br />
-AAA
+Screenshot of **experiment3** log tab.
 </p>
 
 <p align="center">
