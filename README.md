@@ -12,15 +12,14 @@ It allows to create agricultural crop classifiers and to test them.
 
 ## Installation
 
-1. If you haven't done it before:
+1. If you haven't done it before, initialize Git:
 
-   Initialize Git
    ```bash
    $ git config --global user.name "YOUR NAME"
    $ git config --global user.email "YOUR EMAIL ADDRESS"
    ```
 
-2. Clone the repository
+2. Clone the repository:
 
    ```bash
    $ git clone https://github.com/jordi-ic-unicamp/sircub.git
@@ -28,11 +27,11 @@ It allows to create agricultural crop classifiers and to test them.
 
 3. Create a new database for SiRCub into your MySQL
 
-4. Create SiRCub's tables in the previous database
+4. Create SiRCub's tables in the database:
 
    Import [db/sircub2_STRUCTURE.sql script](db/sircub2_STRUCTURE.sql) into the database
 
-5. ...
+5. Run [aaa](sircub.sh)
 
 
 
