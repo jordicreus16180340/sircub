@@ -32,7 +32,7 @@ It allows to create agricultural crop classifiers and to test them.
 
    Import [db/sircub2_STRUCTURE.sql script](db/sircub2_STRUCTURE.sql) into the database.
 
-5. Run [sircub.sh script](sircub.sh):
+5. Run [sircub.sh script](sircub.sh) to launch the program:
 
    ```bash
    $ sircub.sh
