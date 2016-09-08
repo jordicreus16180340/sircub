@@ -26,7 +26,7 @@ It allows to create agricultural crop classifiers and to test them.
    $ git clone https://github.com/jordi-ic-unicamp/sircub.git
    ```
 
-3. Create a new database for SiRCub into your MySQL.
+3. Create a new database for SiRCub into your MySQL server.
 
 4. Create SiRCub's tables in the database:
 
@@ -35,6 +35,8 @@ It allows to create agricultural crop classifiers and to test them.
 5. Run [sircub.sh script](sircub.sh) to launch the program:
 
    ```bash
+   $ cd sircub
+   $ chmod u+x sircub.sh
    $ sircub.sh
    ```
 
