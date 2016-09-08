@@ -30,9 +30,9 @@ It allows to create agricultural crop classifiers and to test them.
 
 4. Create SiRCub's tables in the database:
 
-   Import [db/sircub2_STRUCTURE.sql script](db/sircub2_STRUCTURE.sql) into the database.
+   Import [db/sircub2_STRUCTURE.sql](db/sircub2_STRUCTURE.sql) script into the database.
 
-5. Run [sircub.sh script](sircub.sh) to launch the program:
+5. Run [sircub.sh](sircub.sh) script to launch the program:
 
    ```bash
    $ cd sircub
