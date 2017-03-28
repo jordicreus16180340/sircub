@@ -42,6 +42,8 @@ It allows to create agricultural crop classifiers and to test them.
 
 6. Open the *Configuration* window and set up the SiRCub parameters (see Figure 2).
 
+## Format of Input Files
+
 ## Screenshots
 
 <p align="center">
