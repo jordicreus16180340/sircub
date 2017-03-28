@@ -44,6 +44,40 @@ It allows to create agricultural crop classifiers and to test them.
 
 ## Format of Input Files
 
+* Descriptor locations file
+
+   ```
+   latitude,longitude
+   ...
+   ```
+
+
+
+
+
+* Annotation labels file
+
+   ```
+   id,name
+   1,bean
+   2,corn
+   3,corn+pasture
+   ...
+   ```
+
+   *Example*: [input/dataset1/annotation_labels_en.csv](input/dataset1/annotation_labels_en.csv)
+
+* Annotations file
+
+   ```
+   latitude,longitude,year,first_season,second_season
+   -13.593828,-57.950981,2009-2010,no_data,no_data
+   -13.593828,-57.950981,2010-2011,soybean,cotton
+   -13.593828,-57.950981,2011-2012,soybean,sunflower
+   -13.593828,-57.950981,2012-2013,soybean,corn
+   ...
+   ```
+
 ## Screenshots
 
 <p align="center">
