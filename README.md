@@ -44,18 +44,31 @@ It allows to create agricultural crop classifiers and to test them.
 
 ## Format of Input Files
 
-* Descriptor locations file
+* Descriptor locations file:
 
    ```
    latitude,longitude
+   -13.598318,-57.977921
+   -13.596073,-57.984656
+   -13.596073,-57.982411
    ...
    ```
 
+   *Example*: [input/dataset1/descriptor_locations.csv](input/dataset1/descriptor_locations.csv)
 
+* Descriptors file:
 
+   ```
+     Row   Col.  Seas.  Beg.    End.   Length   Base   Mid-x   Max.    Amp.    L-der.  R-der.  L-integ.  S-integ. 
+       1     1     1     3.7    47.6    43.9  3369.2    24.0  6688.7  3319.5   339.5   164.0  243854.9   88872.6 
+       1     1     2    53.3    91.5    38.2  2986.9    72.8  8766.3  5779.4   232.4   256.8  224770.1  105292.9 
+       1     1     3   100.2   142.8    42.6  3144.2   113.6  8192.4  5048.2   427.5   123.0  252692.2  114349.0 
+   ...
+   ```
 
+   *Example*: [input/dataset1/descriptors_settings1.txt](input/dataset1/descriptors_settings1.txt)
 
-* Annotation labels file
+* Annotation labels file:
 
    ```
    id,name
@@ -67,7 +80,7 @@ It allows to create agricultural crop classifiers and to test them.
 
    *Example*: [input/dataset1/annotation_labels_en.csv](input/dataset1/annotation_labels_en.csv)
 
-* Annotations file
+* Annotations file:
 
    ```
    latitude,longitude,year,first_season,second_season
