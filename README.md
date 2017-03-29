@@ -56,7 +56,7 @@ It allows to create agricultural crop classifiers and to test them.
 
    *Example*: [input/dataset1/descriptor_locations.csv](input/dataset1/descriptor_locations.csv)
 
-* Descriptors file:
+* Descriptors file: Timesat's seasonality parameters output file (*)
 
    ```
      Row   Col.  Seas.  Beg.    End.   Length   Base   Mid-x   Max.    Amp.    L-der.  R-der.  L-integ.  S-integ. 
@@ -67,6 +67,8 @@ It allows to create agricultural crop classifiers and to test them.
    ```
 
    *Example*: [input/dataset1/descriptors_settings1.txt](input/dataset1/descriptors_settings1.txt)
+
+   (*) Timesat input file: [input/dataset1/time_series.txt](input/dataset1/time_series.txt)
 
 * Annotation labels file:
 
