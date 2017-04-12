@@ -166,6 +166,14 @@ We can see the 3 most frequent classes: <i>corn</i>, <i>cotton</i>, and <i>pearl
 <i>Figure 9</i>. Screenshot of the New Classification input dialog.
 </p>
 
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jordi-ic-unicamp/sircub/master/fig/predict_kml_autocropped.png" />
+<br />
+<i>Figure 10</i>. KML file of the agricultural crops with the labels predicted by the classifier.
+</p>
+
 ## Acknowledgements
 
 Work partially financed by FAPESP 2012/25169-5 fellowship, FAPESP/Cepid in Computational Engineering and Sciences (2013/08293-7), the Microsoft Research FAPESP Virtual Institute (NavScales project), FAPESP-PRONEX (eScience project), INCT in Web Science, and individual grants from CNPq.
